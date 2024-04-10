@@ -10,7 +10,7 @@
 - [x] 09 - Monaco
 - [x] 10 - Canada
 - [x] 11 - Spain
-- [] 12 - Austria
+- [x] 12 - Austria
 - [] 13 - Great Britain
 - [] 14 - Hungary
 - [] 15 - Belgium
