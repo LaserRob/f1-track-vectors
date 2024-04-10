@@ -11,13 +11,13 @@
 - [x] 10 - Canada
 - [x] 11 - Spain
 - [x] 12 - Austria
-- [] 13 - Great Britain
-- [] 14 - Hungary
-- [] 15 - Belgium
-- [] 16 - Netherlands
-- [] 17 - Italy
-- [] 18 - Azerbaijan
-- [] 19 - Singapore
+- [x] 13 - Great Britain
+- [x] 14 - Hungary
+- [x] 15 - Belgium
+- [x] 16 - Netherlands
+- [x] 17 - Italy(Monza)
+- [x] 18 - Azerbaijan
+- [x] 19 - Singapore
 - [] 20 - United States
 - [] 21 - Mexico
 - [] 22 - Brazil
