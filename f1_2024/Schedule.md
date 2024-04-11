@@ -20,9 +20,9 @@
 - [x] 19 - United States
 - [x] 20 - Mexico
 - [x] 21 - Brazil
-- [x]  22 - United States
-- []  23 - Qatar
-- [x]  24 - Abu Dhabi
+- [x] 22 - United States
+- [x] 23 - Qatar
+- [x] 24 - Abu Dhabi
 
 ## TESTING
 21 -23 FEB
