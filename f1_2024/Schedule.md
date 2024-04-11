@@ -1,29 +1,28 @@
 ## SVGs
-- [] 01 - **Sakhir**
-- [x] 02 - Bahrain
-- [] 03 - **Saudi Arabia**
-- [x] 04 - Australia
-- [x] 05 - Japan
-- [x] 06 - China
-- [x] 07 - United States
-- [] 08 - **Italy**
-- [x] 09 - Monaco
-- [x] 10 - Canada
-- [x] 11 - Spain
-- [x] 12 - Austria
-- [x] 13 - Great Britain
-- [x] 14 - Hungary
-- [x] 15 - Belgium
-- [x] 16 - Netherlands
-- [x] 17 - Italy(Monza)
-- [x] 18 - Azerbaijan
-- [x] 19 - Singapore
-- [] 20 - United States
-- [] 21 - Mexico
-- [] 22 - Brazil
-- [] 23 - United States
-- [] 24 - Qatar
-- [] 25 - Abu Dhabi
+- [x] 01 - Bahrain
+- [x] 02 - Saudi Arabia
+- [x] 03 - Australia
+- [x] 04 - Japan
+- [x] 05 - China
+- [x] 06 - United States
+- [x] 07 - Italy
+- [x] 08 - Monaco
+- [x] 09 - Canada
+- [x] 10 - Spain
+- [x] 11 - Austria
+- [x] 12 - Great Britain
+- [x] 13 - Hungary
+- [x] 14 - Belgium
+- [x] 15 - Netherlands
+- [x] 16 - Italy(Monza)
+- [x] 17 - Azerbaijan
+- [x] 18 - Singapore
+- [x] 19 - United States
+- [x] 20 - Mexico
+- [x] 21 - Brazil
+- [x]  22 - United States
+- []  23 - Qatar
+- [x]  24 - Abu Dhabi
 
 ## TESTING
 21 -23 FEB
