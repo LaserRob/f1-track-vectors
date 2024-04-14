@@ -8,7 +8,7 @@ FORMULA 1 ARAMCO PRE-SEASON TESTING 2024
 29-02 FEB-MAR
 Bahrain
 FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2024
-![Bahrain](../F1_2024/01%20-%20bahrain.svg "Bahrain F1 Track SVG")
+![Bahrain](../f1_2024/01%20-%20bahrain.svg "Bahrain F1 Track SVG")
 
 ## ROUND 2
 07-09 MAR
